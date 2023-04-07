@@ -73,5 +73,5 @@ More Data should be collected on Used Hondas.
 Deeper analysis of the relationships between different attributes and sales price should be conducted. 
 CarWax should integratet the data driven insights into their strategic profit strategy. 
 
-# COnclusion 
+# Conclusion 
 This Linear regression model demonstrates how exploratory data analysis and machine learning techniques can be used to analyze a dataset of used Honda vehicles and predict the price of a vehicle based on its mileage. The results of the linear regression and XGBoost models are presented, and future work could include exploring other machine learning algorithms and features in the dataset to improve the accuracy of the predictions.
